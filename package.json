@@ -16,10 +16,6 @@
   "bugs": {
     "url": "https://github.com/ayoubenj/calendar/issues"
   },
-  "engines": {
-    "node": "5.0.0",
-    "npm": "4.6.1"
-  },
   "homepage": "https://github.com/ayoubenj/calendar#readme",
   "dependencies": {
     "express": "^4.16.4",
