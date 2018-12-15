@@ -2,7 +2,6 @@
 
 /***************librairies importantes **********/
 var express = require('express'); //express
-var session = require('cookie-session'); // Charge le middleware de sessions
 var bodyParser = require('body-parser'); // Charge le middleware de gestion des paramètres
 var urlencodedParser = bodyParser.urlencoded({ extended: false });//parser des url
 var fs = require('fs');
