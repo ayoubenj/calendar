@@ -27,7 +27,7 @@ app.use(function(req, res, next){
   
 })
 
-.post('/todo', function(req, res) {
+.get('/todo', function(req, res) {
 
 	console.log(req.body);
 	url = "https://accueil-ent2.univ-avignon.fr/edt/exportAgendaUrl?codeDip=2-M2EN";
