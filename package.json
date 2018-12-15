@@ -1,7 +1,7 @@
 {
-  "name": "calendarx",
+  "name": "tester1",
   "version": "1.0.0",
-  "description": "this is the server which could ask the calendar about the schedule",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,18 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/ayoubenj/calendar.git"
   },
-  "author": "ayoub",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ayoubenj/calendar/issues"
   },
   "homepage": "https://github.com/ayoubenj/calendar#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "cookie-session": "^2.0.0-beta.3",
-    "express": "^4.16.4",
-    "fs": "0.0.1-security",
-    "request": "^2.88.0",
-    "url": "^0.11.0"
+    "express": "^4.16.4"
   }
 }
