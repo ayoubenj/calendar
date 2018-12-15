@@ -1,0 +1,20 @@
+{
+  "name": "calendarx",
+  "version": "1.0.0",
+  "description": "this is the server which could ask the calendar about the schedule",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayoubenj/calendar.git"
+  },
+  "author": "ayoub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayoubenj/calendar/issues"
+  },
+  "homepage": "https://github.com/ayoubenj/calendar#readme"
+}
